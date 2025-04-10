@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 core java
+=======
+advanced java
+>>>>>>> branch1
+This is common line
